@@ -2,7 +2,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python projects</b>
-  - [Calculator in Python](https://github.com/cmerc0930/calculator_practice)
+  - [Calculator in Python](https://github.com/cmerc0930/calculator_practice)<br>
+  - [MadLibs Game in Python](https://github.com/cmerc0930/mad_libs_generator)
 
 <h2> 🤳 Connect with me:</h2>
 
